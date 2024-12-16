@@ -38,6 +38,6 @@ This repository is currently **not open-sourced**, and the code for the Jinno ex
 
 ## Useful Links
 
-- 🌐 [Official Website](https://jinno.app)
-- 📘 [Documentation](https://jinno.app/docs)
-- 🛠 [Support](https://jinno.app/support)
+- 🌐 [Official Website](https://www.jinno.app)
+<!--- 📘 [Documentation](https://www.jinno.app/docs)-->
+- 🛠 [Support](https://github.com/tiki-taka-ai/jinno-issue-tracker)
