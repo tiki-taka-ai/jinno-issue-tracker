@@ -9,7 +9,7 @@
   <p>Preview React components seamlessly and instantly in your IDE.</p>
 
   <p>
-    <img alt="Version" src="https://img.shields.io/badge/version-2.9.6-blue?style=for-the-badge&labelColor=000000">
+    <img alt="Version" src="https://img.shields.io/badge/version-2.10.12-blue?style=for-the-badge&labelColor=000000">
     <img alt="Issues" src="https://img.shields.io/badge/issues-Report%20Here-green?style=for-the-badge&labelColor=000000">
     <img alt="License" src="https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge&labelColor=000000">
   </p>
